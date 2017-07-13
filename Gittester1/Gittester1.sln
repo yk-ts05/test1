@@ -1,12 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gittester1", "Gittester1.csproj", "{EDE56248-D633-F0A6-2455-58049981EFCA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDE56248-D633-F0A6-2455-58049981EFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDE56248-D633-F0A6-2455-58049981EFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDE56248-D633-F0A6-2455-58049981EFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDE56248-D633-F0A6-2455-58049981EFCA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
